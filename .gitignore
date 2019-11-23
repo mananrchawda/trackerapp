@@ -1,1 +1,3 @@
+pythonAPI/venv/*
 /pythonAPI/venv/
+/pythonAPI/.idea/
