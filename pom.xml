@@ -6,7 +6,11 @@
 
     <groupId>com.density</groupId>
     <artifactId>tracker-app</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>node-api</module>
+    </modules>
 
 
     <parent>
