@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1ece4dd-2829-45e0-b8f4-7a6045ea52dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/database/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/forecast_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/database/database_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/database/database_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/database/database_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/database/database_service.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
